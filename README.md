@@ -86,8 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Future Improvements
 
-- Implement memory to maintain conversation context
 - Add medical knowledge base for specialized information
-- Incorporate medical entity recognition
 - Implement fact-checking against authoritative medical sources
 - Add support for multi-modal inputs (images, documents)
