@@ -1,0 +1,7 @@
+Patient Name: John Doe
+Date of Visit: January 15, 2025
+Diagnosis: Hypertension (High Blood Pressure)
+Blood Pressure: 150/95 mmHg
+History: Patient reports occasional headaches and fatigue. No prior history of heart disease.
+Treatment Plan: Initiate lifestyle modifications including reduced sodium diet, 30 min daily exercise, and stress management. Prescribed Lisinopril 10 mg daily. Follow-up in 4 weeks.
+Lab Results: Cholesterol levels normal, glucose slightly elevated (prediabetes range).
